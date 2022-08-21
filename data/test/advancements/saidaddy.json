@@ -1,0 +1,22 @@
+{
+    "display" : {
+        "announce_to_chat": true,
+        "icon": { "item": "minecraft:beetroot" },
+        "description": "Saido is daddy UwU (how did you get this lmao)",
+        "frame": "challenge",
+        "title": "I want saidaddy to fill my tight bussy with his seed UmU",
+        "show_toast": true,
+        "hidden": true
+    },
+
+    "criteria": {
+        "criterionName" : {
+            "trigger": "impossible"
+        }
+    },
+
+    "rewards": {
+        "experience": 255,
+        "function": "test:owo/advance/uwu"
+    }
+}

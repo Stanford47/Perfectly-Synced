@@ -1,0 +1,1 @@
+summon minecraft:drowned ~ ~ ~ {Glowing: true}

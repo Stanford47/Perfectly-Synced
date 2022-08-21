@@ -1,0 +1,23 @@
+{
+    "type" : "minecraft:crafting_shapeless",
+    "pattern" : [
+        "rgi",
+        "i  ",
+        "   "
+    ],
+    "key" : {
+        "r" : {
+            "item" : "minecraft:redstone"
+        },
+        "g" : {
+            "item" : "gunpowder"
+        },
+        "i" : {
+            "item" : "minecraft:iron_ingot"
+        } 
+    },
+    "result" : {
+        "item" : "minecraft:redstone_torch",
+        "count" : 1
+    }
+}

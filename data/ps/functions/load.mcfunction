@@ -1,0 +1,1 @@
+tellraw @a { "text" : "Main functions loaded!", "color" : "#00FF00" }
