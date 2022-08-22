@@ -1,0 +1,26 @@
+{
+    "display" : {
+        "icon" : {
+            "item": "minecraft:air"
+        },
+        "title": "",
+        "announce_to_chat": false,
+        "hidden": true,
+        "show_toast": false,
+        "description": "",
+        "background": "minecraft:air"
+    },
+
+    "criteria": {
+        "requirement" : {
+            "trigger" : "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ps:knockbackstick/knockback_stick"
+            }
+        }
+    },
+
+    "rewards": {
+        "function": "ps:knockbackstick/give_knockback_stick"
+    }
+}

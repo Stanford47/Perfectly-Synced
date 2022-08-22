@@ -1,0 +1,16 @@
+{
+    "type" : "minecraft:crafting_shapeless",
+
+    "ingredients": [
+        {
+            "item" : "minecraft:stick"
+        },
+        {
+            "item" : "minecraft:slime_block"
+        }
+    ],
+    
+    "result" : {
+        "item" : "minecraft:drowned_spawn_egg"
+    }
+}
