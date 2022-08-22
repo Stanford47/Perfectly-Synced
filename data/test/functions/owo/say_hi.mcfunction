@@ -1,1 +1,0 @@
-advancement grant @p only test:saidaddy

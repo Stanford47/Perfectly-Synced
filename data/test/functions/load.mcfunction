@@ -1,1 +1,0 @@
-tellraw @a { "text" : "Test functions loaded!", "color" : "#FF0000" }
